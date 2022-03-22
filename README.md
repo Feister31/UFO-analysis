@@ -1,1 +1,4 @@
-# UFO-analysis
+### UFO-analysis
+#### Overview of the analysis: The object of the analysis is to construct a dynamic table, that provides a in-depth analysis of the UFO sightings. With data points such as, dates, city, state and country. 
+#### Results: Using the filtering option, the user can quickly locate a specific event that can be chronolized such date, or location. These entries will populate and duration and initial comments can provide some needed feedback for the user.
+#### Summary: A few recommandations I would give to this would be the landscapeo of the webpage. Having a setting such as a freeze pane option for headers as well as the title page can be useful for some. Another one would be interatve imagery. such as shapes that would be found and how it would compared to the rest of the data thats collected.
